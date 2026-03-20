@@ -1,0 +1,9 @@
+Dependency graph
+    common => none
+    storage => depends on common
+    raft => depends on common
+    protocol => depends on common
+    network => depends on protocol + common
+    controller => depends on raft + common
+    consumer-group => depends on common
+    broker => depends on everything
