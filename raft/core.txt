@@ -1,0 +1,6 @@
+Purpose
+    1. Leader election
+    2. Replicated metadata log
+    3. Commit index tracking
+    4. Snapshotting
+    5. Heartbreak scheduling

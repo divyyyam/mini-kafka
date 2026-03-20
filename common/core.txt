@@ -1,0 +1,7 @@
+contains
+    1. shared domain models
+    2. config objects
+    3. enums
+    4. utilities
+    5. clock abstraction
+    6. Topic partition abstraction

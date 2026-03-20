@@ -1,0 +1,7 @@
+Purpose
+    1. append only log
+    2. segment rolling
+    3. offset index
+    4. retention cleanup
+    5. crash recovery
+    6. high watermark persistence
